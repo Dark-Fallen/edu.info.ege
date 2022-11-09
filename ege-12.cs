@@ -34,7 +34,7 @@ namespace Education
         {
             for (var i = 0; i < line.Length; i++)
             {
-                if (line.Length - i < substring.Length) break;
+                if (line.Length - i < substring.Length - i) break;
                 if (line[i] != substring[0]) continue;
                 var isSubString = true;
                 for (var j = 1; j < substring.Length; j++)
