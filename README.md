@@ -4,5 +4,6 @@
 Список имеющихся реализаций:
 - [5 номер ЕГЭ](https://github.com/Dark-Fallen/edu.info.ege/tree/main/Python%20EGE/5%20EGE)
 - [8 номер ЕГЭ](https://github.com/Dark-Fallen/edu.info.ege/tree/main/Python%20EGE/8%20EGE)
+- [12 номер ЕГЭ](https://github.com/Dark-Fallen/edu.info.ege/tree/main/Python%20EGE/12%20EGE)
 
 В дальнейшем список будет дополняться новыми задачами и номерами.
