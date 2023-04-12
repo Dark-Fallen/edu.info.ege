@@ -41,10 +41,10 @@ def Algorythm(N: int) -> int:
         digitsSum += int(i)
     if digitsSum % 2 == 0:
         binaryForm += '0'
-        binaryForm = '10' + binaryForm[2:len(binaryForm)]
+        binaryForm = '10' + binaryForm[2:]
     else:
         binaryForm += '1'
-        binaryForm = '11' + binaryForm[2:len(binaryForm)]
+        binaryForm = '11' + binaryForm[2:]
     return fromBinary(binaryForm)
 
 N: int = 1
