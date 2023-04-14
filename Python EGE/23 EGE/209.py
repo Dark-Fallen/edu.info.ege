@@ -24,8 +24,9 @@ def F(n: int, stepCount: int) -> None:
         return
     elif n > 100: return
     
-    F(n + 2, stepCount + 1)
-    F(n * 2, stepCount + 1)
+    stepCount += 1
+    F(n + 2, stepCount)
+    F(n * 2, stepCount)
     if n != 1:
         F(n ** 2, stepCount)
 
