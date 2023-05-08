@@ -32,6 +32,7 @@ for i in range(len(data)):
         countOfA += 1
         if countOfA > 5:
             leftBound = data.find('A', leftBound) + 1
+            countOfA = 5
     if i - leftBound + 1 > maxLen:
         maxLen = i - leftBound + 1
 
