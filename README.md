@@ -10,6 +10,7 @@
 - [16 номер ЕГЭ](https://github.com/Dark-Fallen/edu.info.ege/tree/main/Python%20EGE/16%20EGE)
 - [17 номер ЕГЭ](https://github.com/Dark-Fallen/edu.info.ege/tree/main/Python%20EGE/17%20EGE)
 - [23 номер ЕГЭ](https://github.com/Dark-Fallen/edu.info.ege/tree/main/Python%20EGE/23%20EGE)
+- [24 номер ЕГЭ](https://github.com/Dark-Fallen/edu.info.ege/tree/main/Python%20EGE/24%20EGE)
 - [25 номер ЕГЭ](https://github.com/Dark-Fallen/edu.info.ege/tree/main/Python%20EGE/25%20EGE)
 
 В дальнейшем список будет дополняться новыми задачами и номерами.
