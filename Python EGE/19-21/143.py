@@ -19,7 +19,7 @@
        №21: 129
 """
 
-def Game(state: list[int], step: int, goal: int, winner: int, min_step: int = 1, max_step: int = 2):
+def Game(state: int, step: int, goal: int, winner: int, min_step: int = 1, max_step: int = 2):
     if step > max_step: return False
     if state > goal:
         if step % 2 != winner:
